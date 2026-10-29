@@ -1,5 +1,7 @@
 # prompting
 
+https://chatgpt.com/share/6ae2a471-bd20-83e8-8323-c8b507a267c8
+
 I want you to teach me like a patient technical mentor, not like a documentation generator.
 
 ### How I learn best
