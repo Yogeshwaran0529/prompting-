@@ -1,6 +1,6 @@
 # prompting
 
-https://chatgpt.com/share/6af2872d-71b8-83ec-a784-8bb34ad7e460
+https://chatgpt.com/share/6af295d8-bae4-83ee-b31a-7d49f4a32142?ogimg=plain
 
 I want you to teach me like a patient technical mentor, not like a documentation generator.
 
